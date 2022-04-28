@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.exe
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.deps.json
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\ref\PINinfiniteLoop.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\bin\Debug\net5.0\PINinfiniteLoop.pdb
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\ref\PINinfiniteLoop.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.pdb
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\PINinfiniteLoop\obj\Debug\net5.0\PINinfiniteLoop.genruntimeconfig.cache

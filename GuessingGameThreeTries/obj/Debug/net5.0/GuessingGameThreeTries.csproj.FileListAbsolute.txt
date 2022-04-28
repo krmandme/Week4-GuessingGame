@@ -1,0 +1,15 @@
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.exe
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.deps.json
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\bin\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\ref\GuessingGameThreeTries.dll
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.pdb
+C:\Users\KristjanMändmets\source\repos\LoopsAndRandomNumbers\GuessingGameThreeTries\obj\Debug\net5.0\GuessingGameThreeTries.genruntimeconfig.cache
